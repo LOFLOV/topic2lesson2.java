@@ -3,7 +3,7 @@ package com.geekbrains;
 import java.util.Arrays;
 import java.util.Random;
 
-public class topic2lesson2 {
+public class Topic2lesson2 {
     public static void main(String[] args) {
         taskDesigner(1);
         //1 задание 
